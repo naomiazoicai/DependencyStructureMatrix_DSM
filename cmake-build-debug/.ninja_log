@@ -1,0 +1,9 @@
+# ninja log v5
+7	70	7027731734190564	CMakeFiles/lab3_oop.dir/demo.cpp.obj	2717a8a85496505
+2	858	7028428188598642	CMakeFiles/lab3_oop.dir/L3_Azoicai_Naomi_DSM.cpp.obj	11ed87d1324ea92e
+3	655	7029105460598173	build.ninja	4a5a192344c974b5
+1190	1425	7028436653356240	lab3_oop.exe	9824ecd3d4ccd2e0
+3	1189	7028436651150872	CMakeFiles/lab3_oop.dir/L3_Azoicai_Naomi_DSM_test.cpp.obj	bd2bbd4b5978353
+1	808	7021244848188476	CMakeFiles/lab3_oop.dir/main.cpp.obj	93921be89f804c7a
+4	1922	7029110958636102	CMakeFiles/lab3_oop.dir/L3_Azoicai_Naomi_DSM.cpp.obj	11ed87d1324ea92e
+1923	2388	7029110963251251	lab3_oop.exe	9824ecd3d4ccd2e0
